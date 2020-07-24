@@ -1,0 +1,11 @@
+p{  color: rgb(54, 24, 82);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style:italic ;
+    font-size: 5mm;
+}
+
+/*classe endereco que sempre que for chamada será levada essa formatação*/
+.endereco{   
+    color:greenyellow; 
+
+}
